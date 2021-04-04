@@ -1,5 +1,9 @@
-<h2 align='center'> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Olá, Mundo! Eu sou a Juliana 👋
+<div align='center'>
+<h2 align='center'> 
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> Olá, Mundo! Eu sou a Juliana 👋
 </h2>
+ <p align='center'><i>"Quanto mais eu aprendo, mais eu sou"</i></p>
+</div>
 
 <h5 align="center">
   <code>
