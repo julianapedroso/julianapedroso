@@ -1,9 +1,9 @@
 <h2 align='center'> Olá, Mundo! Eu sou a Juliana 👋
 </h2>
 
-<h4 align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianacristinapedroso/" />
-</h4>
+</p>
 
 ## Sobre mim
 
