@@ -26,8 +26,8 @@
 
 <p align="center">
   <a href="https://github.com/julianapedroso">
-    <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api?username=julianapedroso&show_icons=true" />
-    <img height="190em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapedroso&layout=compact" />
+    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=julianapedroso&show_icons=true" />
+    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapedroso&layout=compact" />
   </a>
 </p>
 <br />
