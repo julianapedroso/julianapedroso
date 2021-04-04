@@ -3,7 +3,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/julianacristinapedroso/" title="LinkedIn" target="_blank"> <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/julianacristinapedroso/" title="LinkedIn" target="_blank"> 
+      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg" /> LinkedIn</a>
   </code>
 </h5>
 
