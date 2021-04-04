@@ -15,10 +15,10 @@
 ## Sobre mim
 
 - 👩‍💻 Atualmente sou estudante Full Stack Development pela Labenu e graduanda em Gestão da Tecnologia da Informação pela FATEC
-- 🎯 meu interesse atual é em Desenvolvimento Front-End
-- 💼 procuro por oportunidades remotas e/ou presenciais 
-- 📫 para maiores esclarecimentos, envie-me um e-mail: juliana.cristina@hotmail.com.br
-- 💬 pergunte-me sobre qualquer coisa, ficarei feliz em ajudar :D
+- 🎯 Meu interesse atual é em Desenvolvimento Front-End
+- 💼 Procuro por oportunidades remotas e/ou presenciais 
+- 📫 Para maiores esclarecimentos, envie-me um e-mail: juliana.cristina@hotmail.com.br
+- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar :D
 
 ## Tecnologias e Ferramentas
  
