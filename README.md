@@ -1,4 +1,4 @@
-<h2 align='center'> Olá, Mundo! Eu sou a Juliana 👋
+<h2 align='center'> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Olá, Mundo! Eu sou a Juliana 👋
 </h2>
 
 <h5 align="center">
