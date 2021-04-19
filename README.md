@@ -12,12 +12,14 @@
   </code>
 </h5>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 ## Sobre mim
 
 - 👩‍💻 Atualmente sou estudante Full Stack Development pela Labenu e graduanda em Gestão da Tecnologia da Informação pela FATEC
 - 🎯 Meu interesse atual é em Desenvolvimento Front-End
 - 💼 Procuro por oportunidades remotas e/ou presenciais 
-- 📫 Para maiores esclarecimentos, envie-me um e-mail: juliana.cristina@hotmail.com.br
+- 💌 Para maiores esclarecimentos, envie-me um e-mail: juliana.cristina@hotmail.com.br
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar :D
 
 ## Tecnologias e Ferramentas
