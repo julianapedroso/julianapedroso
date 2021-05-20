@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-- 💼 Atualmente Desenvolvedora na [SMT Soluções em Tecnologia](http://www.smtsolucoes.com.br/)
+- 💼 Atualmente aprendendo muito como Desenvolvedora na [SMT Soluções em Tecnologia](http://www.smtsolucoes.com.br/)
 - 👩‍💻 Também sou estudante Full Stack pela [Labenu](https://www.labenu.com.br/) e graduanda em Gestão da Tecnologia da Informação pela [FATEC](http://www.fatecguaratingueta.edu.br/nportal/) 🎓
 - 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: juliana.cristina@hotmail.com.br
 - 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
