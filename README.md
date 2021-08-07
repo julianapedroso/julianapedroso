@@ -63,3 +63,5 @@
   <img src="https://komarev.com/ghpvc/?username=julianapedroso&color=blueviolet&label=profile+views" alt="julianapedroso" />
 </div>
 
+![Snake animation](https://github.com/julianapedroso/julianapedroso/blob/output/github-contribution-grid-snake.svg)
+
