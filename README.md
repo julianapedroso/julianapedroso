@@ -56,12 +56,13 @@
 <br />
 <br />
 <br />
+
+![Snake animation](https://github.com/julianapedroso/julianapedroso/blob/output/github-contribution-grid-snake.svg)
+
 <hr />
 
 <div align='center'>
 <p> Obrigada pela visita 😁</p>
   <img src="https://komarev.com/ghpvc/?username=julianapedroso&color=blueviolet&label=profile+views" alt="julianapedroso" />
 </div>
-
-![Snake animation](https://github.com/julianapedroso/julianapedroso/blob/output/github-contribution-grid-snake.svg)
 
