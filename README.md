@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://github.com/julianapedroso">
     <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=julianapedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapedroso&layout=compact&theme=dracula" />
+    <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapedroso&layout=compact&theme=dracula" />
   </a>
 </p>
 <br />
