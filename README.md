@@ -16,8 +16,8 @@
 
 ## Sobre mim
 
-- 🐱‍💻 Atualmente aprendendo muito como Desenvolvedora na [Helpper Solutions](https://helpper.com.br/)
-- 👩‍💻 Recém-formada como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) e graduanda em Gestão da Tecnologia da Informação pela [FATEC](http://www.fatecguaratingueta.edu.br/nportal/) 🎓
+- 🐱‍💻 Disponível para oportunidades.
+- 👩‍💻 Formada como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) e atualmente, graduanda em Gestão da Tecnologia da Informação pela [FATEC](http://www.fatecguaratingueta.edu.br/nportal/) 🎓
 - 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: juliana.cristina@hotmail.com.br
 - 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
 
