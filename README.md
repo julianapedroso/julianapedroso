@@ -18,8 +18,8 @@
 
 - 🐱‍💻 Disponível para oportunidades.
 - 👩‍💻 Formada como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) e atualmente, graduanda em Gestão da Tecnologia da Informação pela [FATEC](http://www.fatecguaratingueta.edu.br/nportal/) 🎓
-- 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: juliana.cristina@hotmail.com.br
-- 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
+- 💌 Estou sempre aberta ao diálogo, troca de ideias, dúvidas, parcerias e novas conexões! Posso te ajudar de alguma forma? Sinta-se à vontade para entrar em contato comigo pelo e-mail: juliana.cristina@hotmail.com.br
+- 💬 Pode ser sobre qualquer coisa, ficarei feliz em ajudar :D
 
 ## Tecnologias e Ferramentas
 
