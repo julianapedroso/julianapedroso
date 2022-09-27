@@ -2,7 +2,7 @@
 <h1 align='center'> 
   Hello fellow < Developers />! 👋<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"/>
 </h1>
- <p align='center'><i>❝Tudo é teoricamente impossível, até que seja feito." - Robert A. Heinlein</i></p>
+ <p align='center'><em>❝Tudo é teoricamente impossível, até que seja feito." - Robert A. Heinlein</em></p>
 </div>
 
 <h5 align="center">
@@ -64,7 +64,8 @@
 <hr />
 
 <div align='center'>
-<p> Obrigada pela visita 😁</p>
+<p>Obrigada pela visita 😁</p>
   <img src="https://komarev.com/ghpvc/?username=julianapedroso&color=blueviolet&label=profile+views" alt="julianapedroso" />
+  <p>Keep Coding</p>
 </div>
 
