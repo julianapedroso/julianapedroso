@@ -6,10 +6,8 @@
 </div>
 
 <h5 align="center">
-  <code>
     <a target="_blank" href="https://www.linkedin.com/in/julianacristinapedroso/" title="LinkedIn"> 
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
-  </code>
 </h5>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
