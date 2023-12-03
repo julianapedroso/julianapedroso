@@ -57,6 +57,10 @@
 <br />
 <br />
 
+<picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julianapedroso/julianapedroso/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Snake animation](https://github.com/julianapedroso/julianapedroso/blob/output/github-contribution-grid-snake.svg)
 
 <hr />
