@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-- 🐱‍💻 Desenvolvedora Front-End na [NZN](https://nzn.io/).
+- 🐱‍💻 Desenvolvedora Front-End PL na [NZN](https://nzn.io/).
 - 👩‍💻 Formada como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) e atualmente, graduanda em Análise e Desenvolvimento de Sistemas pela [UniAmérica](https://uniamerica.br) 🎓
 - 💌 Estou sempre aberta ao diálogo, troca de ideias, dúvidas, parcerias e novas conexões! Posso te ajudar de alguma forma? Sinta-se à vontade para entrar em contato comigo pelo e-mail: juliana.cristina@hotmail.com.br
 - 💬 Pode ser sobre qualquer coisa, ficarei feliz em ajudar :D
