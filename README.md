@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:a855f7&height=230&section=header&text=Juliana%20Pedroso&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Front-End%20PL&descSize=22&descAlignY=60&descColor=e9d5ff&animation=fadeIn" alt="Banner Juliana Pedroso" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:a855f7&height=120&animation=fadeIn" alt="Banner Juliana Pedroso" width="100%"/>
+<a href="https://github.com/julianapedroso">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&repeat=false&width=800&height=50&lines=%3E+Ol%C3%A1%2C+eu+sou+a+Juliana+%F0%9F%91%8B" alt="Olá, eu sou a Juliana" />
+</a>
 
 <a href="https://github.com/julianapedroso">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=%3E+Ol%C3%A1%2C+eu+sou+a+Juliana+%F0%9F%91%8B;%3E+Transformo+interfaces+em+experi%C3%AAncias+%E2%9C%A8;%3E+React+%7C+Next.js+%7C+TypeScript;%3E+Performance+%26+Core+Web+Vitals+%E2%9A%A1;%3E+Open+to+new+challenges+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=%3E+Transformo+interfaces+em+experi%C3%AAncias+%E2%9C%A8;%3E+React+%7C+Next.js+%7C+TypeScript;%3E+Performance+%26+Core+Web+Vitals+%E2%9A%A1;%3E+Open+to+new+challenges+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +35,7 @@
 
 <br/>
 
-## 👩‍💻 &lt; Sobre mim /&gt;
+## 👩‍💻 <code>&lt; Sobre mim /&gt;</code>
 
 ```tsx
 const juliana: FrontEndDeveloper = {
@@ -64,13 +67,13 @@ juliana.sayHello(); // "Vamos conversar? 💬"
 
 <br/>
 
-## 🚀 Missão atual
+## 🚀 <code>Missão atual</code>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 O que busco
+### 🎯 <code>O que busco</code>
 - Novos desafios em **Front-End**
 - Produtos com foco em **performance e UX**
 - Times que valorizam **qualidade e colaboração**
@@ -78,7 +81,7 @@ juliana.sayHello(); // "Vamos conversar? 💬"
 </td>
 <td width="50%" valign="top">
 
-### 📚 Sempre estudando
+### 📚 <code>O que não deixo de estudar</code>
 - Boas práticas de **performance web**
 - **Next.js** e arquitetura de front-end
 - Acessibilidade e **design systems**
@@ -89,24 +92,24 @@ juliana.sayHello(); // "Vamos conversar? 💬"
 
 <br/>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ <code>Tecnologias e Ferramentas</code>
 
 <div align="center">
 
-<h4>🎨 Front-End</h4>
+<h4>🎨 <code>Front-End</code></h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,mui&theme=dark" alt="Front-End"/>
 
-<h4>⚙️ Back-End e Banco de Dados</h4>
+<h4>⚙️ <code>Back-End e Banco de Dados</code></h4>
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Back-End"/>
 
-<h4>🧰 Ferramentas e Workflow</h4>
+<h4>🧰 <code>Ferramentas e Workflow</code></h4>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,trello,vscode&theme=dark" alt="Ferramentas"/>
 
 </div>
 
 <br/>
 
-## 💼 Trajetória
+## 💼 <code>Trajetória</code>
 
 <table>
 <tr>
@@ -134,7 +137,7 @@ Mais de 7 anos de experiência em liderança, comunicação e visão estratégic
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## 📊 <code>Estatísticas do GitHub</code>
 
 <div align="center">
 
@@ -151,7 +154,7 @@ Mais de 7 anos de experiência em liderança, comunicação e visão estratégic
 
 <br/>
 
-## 🐍 Contribuições
+## 🐍 <code>Contribuições</code>
 
 <div align="center">
 
@@ -164,8 +167,6 @@ Mais de 7 anos de experiência em liderança, comunicação e visão estratégic
 </div>
 
 <br/>
-
-## 🤝 Vamos construir algo juntos?
 
 <div align="center">
 
@@ -180,7 +181,7 @@ const contact = {
     "Vagas", "Networking", "Carreira",
     "Tecnologia", "Troca de ideias",
   ],
-  reply: "Respondo com café e boa vontade ☕",
+  reply: "Respondo com café e um bom papo ☕",
 };
 ```
 
