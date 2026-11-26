@@ -71,20 +71,22 @@ juliana.sayHello(); // "Vamos conversar? 💬"
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top" margin="1rem">
 
 ### 🎯 <code>O que busco</code>
 - Novos desafios em **Front-End**
 - Produtos com foco em **performance e UX**
-- Times que valorizam **qualidade e colaboração**
+- Times que valorizam **qualidade** e **colaboração**
+- Oportunidades **100% remotas**
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top" margin="1rem">
 
 ### 📚 <code>O que não deixo de estudar</code>
 - Boas práticas de **performance web**
 - **Next.js** e arquitetura de front-end
 - Acessibilidade e **design systems**
+- IA aplicada ao desenvolvimento: mais **produtividade** e **qualidade** no código
 
 </td>
 </tr>
