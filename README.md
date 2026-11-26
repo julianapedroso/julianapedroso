@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:a855f7&height=120&animation=fadeIn" alt="Banner Juliana Pedroso" width="100%"/>
 <a href="https://github.com/julianapedroso">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&repeat=false&width=800&height=50&lines=%3E+Ol%C3%A1%2C+eu+sou+a+Juliana+%F0%9F%91%8B" alt="Olá, eu sou a Juliana" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&repeat=false&width=800&height=50&lines=%3E+Ol%C3%A1%2C+eu+sou+a+Juliana+%F0%9F%91%8B" alt="Olá, eu sou a Juliana" />
 </a>
 
 <a href="https://github.com/julianapedroso">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=%3E+Transformo+interfaces+em+experi%C3%AAncias+%E2%9C%A8;%3E+React+%7C+Next.js+%7C+TypeScript;%3E+Performance+%26+Core+Web+Vitals+%E2%9A%A1;%3E+Open+to+new+challenges+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/julianacristinapedroso/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -94,7 +94,7 @@ juliana.sayHello(); // "Vamos conversar? 💬"
 
 ## 🛠️ <code>Tecnologias e Ferramentas</code>
 
-<div align="center">
+<div align="left">
 
 <h4>🎨 <code>Front-End</code></h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,mui&theme=dark" alt="Front-End"/>
@@ -103,11 +103,11 @@ juliana.sayHello(); // "Vamos conversar? 💬"
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Back-End"/>
 
 <h4>🧰 <code>Ferramentas e Workflow</code></h4>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,trello,vscode&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode&theme=dark" alt="Ferramentas"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## 💼 <code>Trajetória</code>
 
@@ -201,11 +201,11 @@ const contact = {
 
 <br/><br/>
 
-<p>Obrigada pela visita 😁</p>
-
 <img src="https://komarev.com/ghpvc/?username=julianapedroso&color=blueviolet&label=profile+views&style=flat-square" alt="julianapedroso" />
 
-<p><code>Keep Coding 🚀</code></p>
+<div align="center">
+  <code>Obrigada pela visita 😁</code> &nbsp;|&nbsp; <code>Keep Coding 🚀</code>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:a855f7&height=120&section=footer" alt="Footer" width="100%"/>
 
