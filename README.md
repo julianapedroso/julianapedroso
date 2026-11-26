@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=%3E+Ol%C3%A1%2C+eu+sou+a+Juliana+%F0%9F%91%8B;%3E+Transformo+interfaces+em+experi%C3%AAncias+%E2%9C%A8;%3E+React+%7C+Next.js+%7C+TypeScript;%3E+Performance+%26+Core+Web+Vitals+%E2%9A%A1;%3E+Open+to+new+challenges+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/julianacristinapedroso/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -51,7 +51,10 @@ const juliana: FrontEndDeveloper = {
     "TecMundo campeão do iBest 2025 🏆",
     "Componentes de UX usados em escala por milhões de pessoas",
   ],
-  brands: ["TecMundo", "Voxel", "Minha Série", "Mega Curioso", "Click Jogos", "Baixaki"],
+  brands: [
+    "TecMundo", "Voxel", "Minha Série",
+    "Mega Curioso", "Click Jogos", "Baixaki",
+  ],
   funFact: "Acredito que performance também é design ⚡",
   openToWork: true,
 };
@@ -107,22 +110,22 @@ juliana.sayHello(); // "Vamos conversar? 💬"
 
 <table>
 <tr>
-<td width="200" valign="top"><b>📅 Set/2024 – Nov/2026</b></td>
 <td>
+<b>📅 Set/2024 – Nov/2026</b><br/>
 <b>Desenvolvedora Front-End PL</b> · NZN<br/>
 Principal desenvolvedora dos componentes de UX de TecMundo, Voxel, Minha Série, Mega Curioso, Click Jogos e Baixaki. Otimização contínua de Core Web Vitals e evolução do site com Next.js.
 </td>
 </tr>
 <tr>
-<td valign="top"><b>📅 Fev/2022 – Ago/2024</b></td>
 <td>
+<b>📅 Fev/2022 – Ago/2024</b><br/>
 <b>Desenvolvedora Front-End</b> · NZN<br/>
 Novas funcionalidades e suporte a produtos com Next.js e TypeScript, com foco em Core Web Vitals, SEO e mídia programática.
 </td>
 </tr>
 <tr>
-<td valign="top"><b>📅 Antes da tech</b></td>
 <td>
+<b>📅 Antes da tech</b><br/>
 <b>Gestão de equipes e projetos</b><br/>
 Mais de 7 anos de experiência em liderança, comunicação e visão estratégica de negócio.
 </td>
@@ -136,12 +139,12 @@ Mais de 7 anos de experiência em liderança, comunicação e visão estratégic
 <div align="center">
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=julianapedroso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapedroso&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+  <img width="430" src="https://github-readme-stats.vercel.app/api?username=julianapedroso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats"/>
+  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapedroso&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </p>
 
 <p>
-  <img height="170" src="https://streak-stats.demolab.com?user=julianapedroso&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img width="430" src="https://streak-stats.demolab.com?user=julianapedroso&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </p>
 
 </div>
@@ -173,7 +176,10 @@ Mais de 7 anos de experiência em liderança, comunicação e visão estratégic
 ```ts
 const contact = {
   availability: "Aberta a novas oportunidades em Front-End 🚀",
-  topics: ["Vagas", "Networking", "Carreira", "Tecnologia", "Troca de ideias"],
+  topics: [
+    "Vagas", "Networking", "Carreira",
+    "Tecnologia", "Troca de ideias",
+  ],
   reply: "Respondo com café e boa vontade ☕",
 };
 ```
@@ -181,15 +187,15 @@ const contact = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/julianacristinapedroso/">
-  <img height="38" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Juliana"/>
+  <img height="38" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:juliana.cristina@hotmail.com.br">
-  <img height="38" src="https://img.shields.io/badge/E--mail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail de Juliana"/>
+  <img height="38" src="https://img.shields.io/badge/E--mail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 &nbsp;
 <a href="https://github.com/julianapedroso">
-  <img height="38" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Juliana"/>
+  <img height="38" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
